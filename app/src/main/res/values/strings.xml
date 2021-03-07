@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConnectFour</string>
+    <string name="circle_image_name">GameCircle</string>
+    <string name="columnButton_name">GameButton</string>
+</resources>
